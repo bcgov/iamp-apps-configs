@@ -1,1 +1,1 @@
-# iamp-apps-configs-1
+# iamp-apps-configs
